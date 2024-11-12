@@ -1,6 +1,6 @@
 # Fetch-take-home-exercise
 
-This is an endpoint-uptime-analyzer written in Python.
+This is an endpoint-uptime analyzer written in Python.
 
 Requirements can be found here: https://fetch-hiring.s3.us-east-1.amazonaws.com/site-reliability-engineer/health-check.pdf 
 
