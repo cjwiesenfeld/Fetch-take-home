@@ -83,7 +83,6 @@ def main():
                 code, latency = send_request(k)
                 validate(curr_url,code,latency)
             create_output()
-            print(request_results)
             print("-------------------------------------------")
             last_time = curr_time
         
