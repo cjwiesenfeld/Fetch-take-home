@@ -10,7 +10,7 @@ To run this script, do the following:
   1. Clone this repo
   2. cd Fetch-take-home
   3. Create the virtual environment: python3 -m venv env
-  4. Activate the virtual environent: env/Scripts/acivate
+  4. Activate the virtual environent: env/Scripts/acivate (Windows) source env/bin/activate (MAC)
   5. Install the dependencies: pip install -r requirements.txt
   6. Run the file: Python domain_uptime.py path/to/yaml.file
 
