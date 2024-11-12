@@ -16,10 +16,10 @@ To run this script, do the following:
 
 **Docker:**
 
-  1. Clone this repo
-  2. cd Fetch-take-home
-  3. Build the docker image: docker build -t image_name .
-  4. Run the file: docker run image_name path/to/.yaml
+  1. Pull: docker pull cjweez/domain_uptime
+  2. Run: docker run cjweez/domain_uptime path/to/yaml.file
+
+ 
 
 
 
