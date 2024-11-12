@@ -50,7 +50,7 @@ def validate(url,code,latency):
 def create_output():
     for k,v in request_results.items():
         perc = round(100*(v[0]/v[1])) # Percentage is Ups/total * 100
-        print(f"{k} has {perc} availibilty percentage")
+        print(f"{k} has {perc}% availabilty percentage")
 
 #--------------------------------------
 # Convert Yaml to dict
